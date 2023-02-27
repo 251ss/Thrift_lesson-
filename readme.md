@@ -120,6 +120,4 @@ thrift -r --gen <language> <Thrift filename>
 - 上传数据到服务器需要输入服务端的用户名和密码，密码可以用md5值加密
 - 求一个字符串的md5值：终端输入命令`md5sum`，输入原密码回车然后Ctrl+d
 
-## 项目地址
 
-https://github.com/251ss/Thrift_lesson-
